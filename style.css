@@ -1,0 +1,83 @@
+/* Colors and fonts */
+
+body{
+	background: rgb(0, 0, 0);
+		color: white;
+	font-family: 'Roboto', sans-serif;
+	    text-align: justify;
+}
+
+
+div{
+ margin: 40px;
+ }
+
+p{text-align: center;
+margin: 50px;
+}
+
+h1{
+color: rgb(200, 200, 200);
+font-family: Helvetica; 
+font-weight:150 ; 
+    text-align: center;
+}
+
+h2{
+	font-weight: 400; 
+	text-align: : center;
+	background-image: url(images/68456724-5-0-4089789-v-.jpg);
+    padding: 20px;
+    margin: 50px;
+    box-shadow: -3px 3px 11px;
+    border-radius: 5px;
+    color: black
+}
+
+
+video{
+	align-content: center;
+	padding: 60px
+}
+
+img{
+	border-radius: 10px
+}
+
+/* Custom desgn with class*/
+
+.btn-white {
+	background-image: url(images/68456724-5-0-4089789-v-.jpg);
+	color: black;
+	padding: 5px 10px;
+	align-content: center;
+	margin: 5px 480px;
+	border-radius: 5px;
+}
+
+.list-inline {
+	list-style: none;
+}
+
+
+@media (max-width: 960px) {
+ 
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+ 
+  .container {
+    width: 300px;
+  }
+}
+
+
+
