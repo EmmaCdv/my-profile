@@ -7,7 +7,6 @@ body{
 	    text-align: justify;
 }
 
-
 div{
  margin: 40px;
  }
@@ -34,7 +33,6 @@ h2{
     color: black
 }
 
-
 video{
 	align-content: center;
 	padding: 60px
@@ -59,7 +57,6 @@ img{
 	list-style: none;
 }
 
-
 @media (max-width: 960px) {
  
   .container {
@@ -78,6 +75,5 @@ img{
     width: 300px;
   }
 }
-
 
 
